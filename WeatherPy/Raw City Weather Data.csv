@@ -1,0 +1,83 @@
+,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date,Hemisphere
+0,San Jose,37.34,37.34,69.01,75,61,2.01,US,1601186009,Northern Hemisphere
+1,Puerto Ayora,-0.74,-0.74,69.01,88,13,5.01,EC,1601185906,Southern Hemisphere
+2,Albany,42.6,42.6,68.0,96,14,4.54,US,1601185716,Northern Hemisphere
+3,Port-Gentil,-0.72,-0.72,77.0,83,20,11.41,GA,1601186064,Southern Hemisphere
+4,Vaini,-21.2,-21.2,75.2,73,20,10.29,TO,1601185912,Southern Hemisphere
+5,Ape,57.54,57.54,58.33,72,0,9.86,LV,1601186064,Northern Hemisphere
+6,Jamestown,42.1,42.1,62.01,87,1,8.05,US,1601185889,Northern Hemisphere
+7,Ankazobe,-18.32,-18.32,66.2,59,20,4.7,MG,1601186064,Southern Hemisphere
+8,Meulaboh,4.14,4.14,85.35,62,21,5.48,ID,1601186065,Northern Hemisphere
+9,Ketchikan,55.34,55.34,51.8,87,20,12.75,US,1601186065,Northern Hemisphere
+10,Ulaangom,49.98,49.98,51.37,44,42,5.57,MN,1601186066,Northern Hemisphere
+11,Chara,56.91,56.91,45.95,68,53,10.29,RU,1601186066,Northern Hemisphere
+12,Mar del Plata,-38.0,-38.0,54.0,100,90,4.7,AR,1601185792,Southern Hemisphere
+13,Chui,-33.7,-33.7,59.18,97,92,4.68,UY,1601186044,Southern Hemisphere
+14,Qaanaaq,77.48,77.48,12.0,76,31,7.34,GL,1601185913,Northern Hemisphere
+15,Nikolskoye,59.7,59.7,57.0,87,0,8.95,RU,1601185902,Northern Hemisphere
+16,Mataura,-46.19,-46.19,43.0,70,82,11.01,NZ,1601185903,Southern Hemisphere
+17,Bougouni,11.42,11.42,70.32,86,2,3.76,ML,1601186067,Northern Hemisphere
+18,Alofi,-19.06,-19.06,75.2,78,97,14.99,NU,1601186067,Southern Hemisphere
+19,Port Elizabeth,-33.92,-33.92,51.8,66,12,10.29,ZA,1601185915,Southern Hemisphere
+20,Marsh Harbour,26.54,26.54,82.08,77,25,6.98,BS,1601186068,Northern Hemisphere
+21,Port Blair,11.67,11.67,85.75,71,97,15.95,IN,1601185931,Northern Hemisphere
+22,Berlevåg,70.86,70.86,41.99,70,2,16.96,NO,1601186068,Northern Hemisphere
+23,Ushuaia,-54.8,-54.8,35.6,74,75,3.36,AR,1601185912,Southern Hemisphere
+24,Butaritari,3.07,3.07,82.8,74,98,11.43,KI,1601186069,Northern Hemisphere
+25,Bredasdorp,-34.53,-34.53,46.4,81,7,6.93,ZA,1601186069,Southern Hemisphere
+26,Lompoc,34.64,34.64,60.8,87,1,3.36,US,1601186069,Northern Hemisphere
+27,Bagé,-31.33,-31.33,66.2,82,100,25.28,BR,1601186004,Southern Hemisphere
+28,Dingle,11.0,11.0,88.27,67,54,4.88,PH,1601186038,Northern Hemisphere
+29,Nemuro,43.32,43.32,60.8,87,75,9.17,JP,1601186070,Northern Hemisphere
+30,Ahipara,-35.17,-35.17,59.13,83,1,10.42,NZ,1601186029,Southern Hemisphere
+31,Yellowknife,62.46,62.46,44.6,87,90,6.93,CA,1601185908,Northern Hemisphere
+32,Hithadhoo,-0.6,-0.6,82.69,66,79,3.09,MV,1601186070,Southern Hemisphere
+33,Kurāra,25.98,25.98,94.46,34,11,6.4,IN,1601186071,Northern Hemisphere
+34,Lupiro,-8.38,-8.38,78.1,62,50,5.97,TZ,1601186071,Southern Hemisphere
+35,Port Pirie,-33.18,-33.18,62.6,39,16,10.29,AU,1601185829,Southern Hemisphere
+36,Carnarvon,-24.87,-24.87,73.4,49,10,18.34,AU,1601185902,Southern Hemisphere
+37,Tiksi,71.69,71.69,41.65,84,100,4.12,RU,1601186044,Northern Hemisphere
+38,Iracoubo,5.48,5.48,76.57,89,44,7.54,GF,1601186072,Northern Hemisphere
+39,Gambiran,-6.8,-6.8,89.73,50,93,5.75,ID,1601186072,Southern Hemisphere
+40,Punta Arenas,-53.15,-53.15,35.6,93,75,3.36,CL,1601185917,Southern Hemisphere
+41,Tasiilaq,65.61,65.61,33.51,92,100,4.16,GL,1601185918,Northern Hemisphere
+42,Orsha,54.52,54.52,57.2,76,3,6.71,BY,1601186073,Northern Hemisphere
+43,Cape Town,-33.93,-33.93,51.01,87,75,5.82,ZA,1601185750,Southern Hemisphere
+44,Rovaniemi,66.5,66.5,37.4,100,40,12.75,FI,1601186073,Northern Hemisphere
+45,Nantucket,41.28,41.28,64.4,93,1,8.05,US,1601185906,Northern Hemisphere
+46,Atuona,-9.8,-9.8,78.35,73,1,13.98,PF,1601185910,Southern Hemisphere
+47,Bowen,-20.02,-20.02,82.4,51,3,17.22,AU,1601186074,Southern Hemisphere
+48,Barrow,71.29,71.29,32.0,96,90,12.75,US,1601186046,Northern Hemisphere
+49,Wencheng,33.06,33.06,80.67,49,43,9.4,CN,1601186074,Northern Hemisphere
+50,Rikitea,-23.12,-23.12,74.43,83,3,12.66,PF,1601185901,Southern Hemisphere
+51,Port Alfred,-33.59,-33.59,56.1,56,10,18.95,ZA,1601185911,Southern Hemisphere
+52,Sciacca,37.51,37.51,57.99,97,73,4.0,IT,1601186075,Northern Hemisphere
+53,Faanui,-16.48,-16.48,78.75,80,59,13.62,PF,1601185804,Southern Hemisphere
+54,Hilo,19.73,19.73,78.8,69,75,1.21,US,1601185901,Northern Hemisphere
+55,Hadejia,12.45,12.45,76.64,73,65,9.51,NG,1601186075,Northern Hemisphere
+56,Hobart,-42.88,-42.88,53.6,55,40,14.99,AU,1601186075,Southern Hemisphere
+57,Bluff,-46.6,-46.6,43.0,70,76,11.01,NZ,1601185923,Southern Hemisphere
+58,Dudinka,69.41,69.41,39.2,80,40,17.9,RU,1601186076,Northern Hemisphere
+59,Verkhoyansk,67.54,67.54,41.9,93,100,2.91,RU,1601186076,Northern Hemisphere
+60,Bambari,5.77,5.77,73.8,92,93,0.65,CF,1601186076,Northern Hemisphere
+61,Isla Mujeres,21.23,21.23,82.4,83,75,3.36,MX,1601186077,Northern Hemisphere
+62,Guerrero Negro,27.98,27.98,69.08,85,0,10.58,MX,1601185917,Northern Hemisphere
+63,Talnakh,69.49,69.49,39.2,80,40,17.9,RU,1601186077,Northern Hemisphere
+64,Cayenne,4.93,4.93,75.2,100,40,2.24,GF,1601186035,Northern Hemisphere
+65,Batagay,67.63,67.63,40.53,91,100,4.36,RU,1601186078,Northern Hemisphere
+66,Norman Wells,65.28,65.28,37.4,86,75,3.36,CA,1601186078,Northern Hemisphere
+67,Egvekinot,66.32,66.32,29.28,89,2,6.06,RU,1601186078,Northern Hemisphere
+68,Martin,27.08,27.08,78.8,88,1,4.12,US,1601186078,Northern Hemisphere
+69,Khatanga,71.97,71.97,45.48,86,100,14.85,RU,1601186079,Northern Hemisphere
+70,Arraial do Cabo,-22.97,-22.97,72.16,89,1,13.56,BR,1601186079,Southern Hemisphere
+71,Kidal,18.44,18.44,84.72,14,0,5.19,ML,1601186079,Northern Hemisphere
+72,Hermanus,-34.42,-34.42,48.99,93,88,4.72,ZA,1601185919,Southern Hemisphere
+73,Lebu,-37.62,-37.62,47.3,87,12,10.31,CL,1601186080,Southern Hemisphere
+74,Tual,-5.67,-5.67,80.67,81,72,15.3,ID,1601185909,Southern Hemisphere
+75,Christchurch,-43.53,-43.53,57.99,43,6,19.46,NZ,1601185794,Southern Hemisphere
+76,Zihuatanejo,17.63,17.63,80.35,78,74,3.27,MX,1601185903,Northern Hemisphere
+77,Rondonópolis,-16.47,-16.47,79.45,51,0,2.35,BR,1601186076,Southern Hemisphere
+78,Zhigansk,66.77,66.77,47.68,73,67,4.74,RU,1601186046,Northern Hemisphere
+79,Kapoeta,4.77,4.77,76.44,71,88,4.45,SS,1601186081,Northern Hemisphere
+80,Pevek,69.7,69.7,36.1,84,35,13.13,RU,1601186081,Northern Hemisphere
+81,Kavaratti,10.57,10.57,84.2,74,75,6.93,IN,1601186081,Northern Hemisphere
