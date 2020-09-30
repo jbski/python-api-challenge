@@ -24,7 +24,7 @@ After each plot add a sentence or too explaining what the code is and analyzing.
 
 Your second requirement is to run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
-[Northern Hemisphere - Temperature (F) vs. Latitude](Images\city_latitude_vs_max_temp-Northern_Hemisphere.png)
+[Northern Hemisphere - Temperature (F) vs. Latitude](WeatherPy\Images\city_latitude_vs_max_temp-Northern_Hemisphere.png)
 * [Southern Hemisphere - Temperature (F) vs. Latitude](Images\city_latitude_vs_max_temp-Southern_Hemisphere.png)
 * [Northern Hemisphere - Humidity (%) vs. Latitude](Images\city_latitude_vs_humidity-Northern_Hemisphere.png)
 * [Southern Hemisphere - Humidity (%) vs. Latitude](Images\city_latitude_vs_humidity-Southern_Hemisphere.png)
