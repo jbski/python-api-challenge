@@ -1,4 +1,4 @@
-# Python API Homework - What's the Weather Like?
+# Python API - What's the Weather Like?
 
 ## Background
 
@@ -40,7 +40,7 @@ Your final notebook must:
 * Save a CSV of all retrieved data and a PNG image for each scatter plot.
 
 
-### Part II - VacationPy
+## Part II - VacationPy
 
 * [Link to VacationPy Jupyter Notebook](VacationPy/VacationPy.ipynb)
 
